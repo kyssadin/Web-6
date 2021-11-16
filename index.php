@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Lab 6</title>
     <link rel="stylesheet" href="jquery-ui-1.13.0/jquery-ui.min.css">
     <script src="jquery-ui-1.13.0/external/jquery/jquery.js"></script>
     <script src="jquery-ui-1.13.0/jquery-ui.min.js"></script>
