@@ -1,0 +1,13 @@
+::1 - - [15/Nov/2021:23:01:21 +0200] "GET /index.php HTTP/1.1" 200 73786
+::1 - - [15/Nov/2021:23:01:32 +0200] "GET /index.php HTTP/1.1" 200 73786
+::1 - - [15/Nov/2021:23:02:32 +0200] "-" 408 -
+::1 - - [16/Nov/2021:23:07:33 +0200] "GET / HTTP/1.1" 200 73944
+::1 - - [16/Nov/2021:23:07:33 +0200] "GET /favicon.ico HTTP/1.1" 404 196
+::1 - - [16/Nov/2021:23:08:33 +0200] "-" 408 -
+::1 - - [16/Nov/2021:23:08:51 +0200] "GET / HTTP/1.1" 200 2243
+::1 - - [16/Nov/2021:23:08:51 +0200] "GET /jquery-ui-1.13.0/jquery-ui.min.css HTTP/1.1" 200 32130
+::1 - - [16/Nov/2021:23:08:51 +0200] "GET /jquery-ui-1.13.0/external/jquery/jquery.js HTTP/1.1" 200 288580
+::1 - - [16/Nov/2021:23:08:51 +0200] "GET /jquery-ui-1.13.0/jquery-ui.min.js HTTP/1.1" 200 254921
+::1 - - [16/Nov/2021:23:08:52 +0200] "GET /jquery-ui-1.13.0/images/ui-icons_444444_256x240.png HTTP/1.1" 200 7090
+::1 - - [16/Nov/2021:23:08:52 +0200] "GET /jquery-ui-1.13.0/images/ui-icons_ffffff_256x240.png HTTP/1.1" 200 6487
+::1 - - [16/Nov/2021:23:08:52 +0200] "GET /jquery-ui-1.13.0/images/ui-icons_555555_256x240.png HTTP/1.1" 200 7074
